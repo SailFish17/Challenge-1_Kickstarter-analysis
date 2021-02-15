@@ -13,12 +13,16 @@ The dataset and platform presented unique challenges that needed to be overcome 
 
 ### Analysis of Outcomes Based on Launch Date
 * The Most successful month to start a campaign is May.  June has the second highest success rate.
+
 * Dec Kickstarters fail about half the time.
+
 * Theater people may be very hopeful, Theater kickstarters rarely get canceled. <3%,   
 
 ### Analysis of Outcomes Based on Goals
 * Highest success rates are for kickstarters under $5,000.
+
 * The general trend is that the larger the goal the less likely it will succeed,  Goals between 35 and 45K are less likely to fail compared to surrounding points but these 2 exceptions really just bend the trend flatter but do not significantly change the conclusion.
+
 * Kickstarter campaigns for plays were never canceled.   
 
 ### Challenges and Difficulties Encountered
@@ -52,17 +56,24 @@ See graph in file Theater_Outcomes_VS_Launch.png.
 See Graph in file OUtcoumes_vs_Goals.png.
 
 *Keep your requests for plays low cost, Highest success rates for Play kickstarters was $5,000.   
+
 *The general trend is that the larger the goal the less likely it will succeed,  Goals between 35 and 45K are less likely to fail compared to surrounding points but these 2 exceptions really just bend the trend flatter but do not significantly change the conclusion.
+
 *Don't quit, Kickstarter campaigns for plays were never canceled. 
 
 ### What are some limitations of this dataset?
 *It is unclear if the currency markers in the goal and pledged columns are correctly represented in comparison to the currency called out in the Currency column.  Goal and Pledged columns all have $ signs but the currency column calls out several different currencies.  That stated, funding percentages are not affected by this issue, just the placement of the project in the proper currency size grouping once normalized to a standard currency.
+
 *Whilst there are different countries represented, it is not clear if all the kickstarters were in native languages to those countries.   Funding success would be implicit to understanding the request for funds.  
+
 *The titles of the columns are not all explained, I am not sure what Spotlight means.
+
 *Category and subcategory should have been separated when initially building the data set.
 
 ### What are some other possible tables and/or graphs that we could create?
 *Additional conclusions might be derived by comparison tables and graphs with other subcategories of projects.  For  example,  Is May ALWAYS a good month for all categories or subcategories or just for Plays. 
+
 *Do other categories of Theater behave differently at all goal levels?
+
 *An analysis of the blurb is in order at higher goal levels.   Do better explained projects have better funding success?
 See language issue with data set above.  More data is needed to understand the impact of language on funding success.

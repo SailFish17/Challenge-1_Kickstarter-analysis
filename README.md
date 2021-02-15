@@ -27,6 +27,7 @@ The dataset and platform presented unique challenges that needed to be overcome 
 
 ### Challenges and Difficulties Encountered
 There were multiple challenges to reviewing this data set including;
+
 -the inability to logon to the data source (Canvas site), 
 
 -being booted from the data site (Canvas), 

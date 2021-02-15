@@ -4,7 +4,7 @@ performing analysis on Kickstarter data to uncover trends - Challenge 1
 ## Overview of Project
 The analysis reviewed a data set of Kickstarter campaigns that included funding initiatives for theater projects.   The data set was multinational and held information on campaigns for multiple categories of projects.   
 
-### Purpose
+## Purpose
 The client would like to understand timing and size of grant requested and success or failure of that funding request for projects focusing on theater, specifically plays.
 
 ## Analysis and Challenges
@@ -22,7 +22,15 @@ The dataset and platform presented unique challenges that needed to be overcome 
 * Kickstarter campaigns for plays were never canceled.   
 
 ### Challenges and Difficulties Encountered
-There were multiple challenges to reviewing this data set including the inability to logon to the data source (Canvas site), being booted from the data site (Canvas), Webpages only displaying half a page, the inability to see the whole page and the need to use a slider located just above the rubric to see the column of text (Canvas), Blind alleys to reset the webpage to view the directions of the webpage (Canvas),  Understanding the syntax of the Countifs formula and finally reviewing and figuring out the rules of Kickstarter for a complete understanding of how Louise had to operate in that platform.
+There were multiple challenges to reviewing this data set including;
+-the inability to logon to the data source (Canvas site), 
+-being booted from the data site (Canvas), 
+-Webpages only displaying half a page, 
+-the inability to see the whole page and the need to use a slider located just above the rubric to see the column of text (Canvas), 
+-Blind alleys to reset the webpage to view the directions of the webpage (Canvas),  
+-Understanding the syntax of the Countifs formula and finally 
+-reviewing and figuring out the rules of Kickstarter for a complete understanding of how Louise had to operate in that platform.
+
 All of these challenges except formula syntax was overcome by going to the web for help or relying on the adage; if my computer doesn’t work, reboot.  Accessing the website correctly took a password reset, clearing cookies and google bookmarks.  Seeing the whole page was semi solved by copying the page into Word and then trying to capture a print page image.   This did not allow me to see the embedded videos however.  I finally rebooted my machine twice and the page miraculously displayed without the use of sliders.
 The syntax issue was corrected by watching the embedded video and realizing the criteria less than or equal to meant referencing the dataset twice within the criteria term.
 Understanding Kickstarter came from reading about it and the kickstarter FAQ’s.

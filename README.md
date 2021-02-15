@@ -28,11 +28,11 @@ The dataset and platform presented unique challenges that needed to be overcome 
 ### Challenges and Difficulties Encountered
 There were multiple challenges to reviewing this data set including;
 
--the inability to logon to the data source (Canvas site), 
+-the inability to logon to the course site (Canvas site), 
 
--being booted from the data site (Canvas), 
+-being booted from the course site multiple times (Canvas), 
 
--Webpages only displaying half a page, 
+-Course webpages only displaying half a page, 
 
 -the inability to see the whole page and the need to use a slider located just above the rubric to see the column of text (Canvas), 
 

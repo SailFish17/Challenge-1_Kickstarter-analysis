@@ -50,6 +50,7 @@ Understanding Kickstarter came from reading about it and the kickstarter FAQ’s
 See graph in file Theater_Outcomes_VS_Launch.png.
 
 *Launch your kickstarter mid year; The most successful month to start a campaign is May.  June has the second highest success rate.
+
 *Avoid launching end of year; December Kickstarters fail almost half the time, the highest percentage of failure throughout the year
 
 ### What can you conclude about the Outcomes based on Goals?

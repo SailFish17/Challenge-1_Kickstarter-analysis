@@ -72,9 +72,13 @@ See Graph in file OUtcoumes_vs_Goals.png.
 *Category and subcategory should have been separated when initially building the data set.
 
 ### What are some other possible tables and/or graphs that we could create?
-*Additional conclusions might be derived by comparison tables and graphs with other subcategories of projects.  For  example,  Is May ALWAYS a good month for all categories or subcategories or just for Plays. 
+Additional conclusions might be derived by comparison tables and graphs with other subcategories of projects that would answer the following questions.  
 
-*Do other categories of Theater behave differently at all goal levels?
+For  example,  
+-Is May ALWAYS a good month for all categories or subcategories or just for Plays.  Graph multiple categories and subcategories vs months of the year and compare with Plays.
 
-*An analysis of the blurb is in order at higher goal levels.   Do better explained projects have better funding success?
-See language issue with data set above.  More data is needed to understand the impact of language on funding success.
+-Do other categories of Theater behave differently at all goal levels?  Graph multiple categories to find best funding levels, compare best funded with blurb content and other variables to co-opt best practices in other categoies to increase probability of better funding for plays.
+
+-An analysis of the blurb is in order at higher goal levels.   Do better explained projects have better funding success?   See graph in point above 
+
+-See language issue with data set above.  More data is needed to understand the impact of language on funding success.   This data is not clearly represented in the dataset.

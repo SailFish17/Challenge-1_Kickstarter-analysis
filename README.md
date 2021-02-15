@@ -23,13 +23,13 @@ The dataset and platform presented unique challenges that needed to be overcome 
 
 ### Challenges and Difficulties Encountered
 There were multiple challenges to reviewing this data set including;
--the inability to logon to the data source (Canvas site), 
--being booted from the data site (Canvas), 
--Webpages only displaying half a page, 
--the inability to see the whole page and the need to use a slider located just above the rubric to see the column of text (Canvas), 
--Blind alleys to reset the webpage to view the directions of the webpage (Canvas),  
--Understanding the syntax of the Countifs formula and finally 
--reviewing and figuring out the rules of Kickstarter for a complete understanding of how Louise had to operate in that platform.
+*-the inability to logon to the data source (Canvas site), 
+*-being booted from the data site (Canvas), 
+*-Webpages only displaying half a page, 
+*-the inability to see the whole page and the need to use a slider located just above the rubric to see the column of text (Canvas), 
+*-Blind alleys to reset the webpage to view the directions of the webpage (Canvas),  
+*-Understanding the syntax of the Countifs formula and finally 
+*-reviewing and figuring out the rules of Kickstarter for a complete understanding of how Louise had to operate in that platform.
 
 All of these challenges except formula syntax was overcome by going to the web for help or relying on the adage; if my computer doesn’t work, reboot.  Accessing the website correctly took a password reset, clearing cookies and google bookmarks.  Seeing the whole page was semi solved by copying the page into Word and then trying to capture a print page image.   This did not allow me to see the embedded videos however.  I finally rebooted my machine twice and the page miraculously displayed without the use of sliders.
 The syntax issue was corrected by watching the embedded video and realizing the criteria less than or equal to meant referencing the dataset twice within the criteria term.

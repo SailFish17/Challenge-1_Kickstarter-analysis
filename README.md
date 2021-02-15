@@ -28,22 +28,22 @@ The syntax issue was corrected by watching the embedded video and realizing the 
 Understanding Kickstarter came from reading about it and the kickstarter FAQ’s.
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 *Launch your kickstarter mid year; The most successful month to start a campaign is May.  June has the second highest success rate.
 *Avoid launching end of year; December Kickstarters fail almost half the time, the highest percentage of failure throughout the year
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 *Keep your requests for plays low cost, Highest success rates for Play kickstarters was $5,000.   
 *The general trend is that the larger the goal the less likely it will succeed,  Goals between 35 and 45K are less likely to fail compared to surrounding points but these 2 exceptions really just bend the trend flatter but do not significantly change the conclusion.
 *Don't quit, Kickstarter campaigns for plays were never canceled. 
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 *It is unclear if the currency markers in the goal and pledged columns are correctly represented in comparison to the currency called out in the Currency column.  Goal and Pledged columns all have $ signs but the currency column calls out several different currencies.  That stated, funding percentages are not affected by this issue, just the placement of the project in the proper currency size grouping once normalized to a standard currency.
 *Whilst there are different countries represented, it is not clear if all the kickstarters were in native languages to those countries.   Funding success would be implicit to understanding the request for funds.  
 *The titles of the columns are not all explained, I am not sure what Spotlight means.
 *Category and subcategory should have been separated when initially building the data set.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 *Additional conclusions might be derived by comparison tables and graphs with other subcategories of projects.  For  example,  Is May ALWAYS a good month for all categories or subcategories or just for Plays. 
 *Do other categories of Theater behave differently at all goal levels?
 *An analysis of the blurb is in order at higher goal levels.   Do better explained projects have better funding success?

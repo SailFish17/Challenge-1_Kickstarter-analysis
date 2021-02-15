@@ -38,11 +38,13 @@ Understanding Kickstarter came from reading about it and the kickstarter FAQ’s
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 See graph in file Theater_Outcomes_VS_Launch.png.
+
 *Launch your kickstarter mid year; The most successful month to start a campaign is May.  June has the second highest success rate.
 *Avoid launching end of year; December Kickstarters fail almost half the time, the highest percentage of failure throughout the year
 
 ### What can you conclude about the Outcomes based on Goals?
 See Graph in file OUtcoumes_vs_Goals.png.
+
 *Keep your requests for plays low cost, Highest success rates for Play kickstarters was $5,000.   
 *The general trend is that the larger the goal the less likely it will succeed,  Goals between 35 and 45K are less likely to fail compared to surrounding points but these 2 exceptions really just bend the trend flatter but do not significantly change the conclusion.
 *Don't quit, Kickstarter campaigns for plays were never canceled. 

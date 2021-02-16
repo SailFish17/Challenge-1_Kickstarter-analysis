@@ -12,13 +12,13 @@ The analysis was performed by sifting the data with Excel (data set is native to
 
 The analysis was done on the dataset:
 
-- Kickstarter Challenge Vupload.xlsx   [Kickstarter Challenge Vupload.xlsx](Kickstarter Challenge Vupload.xlsx)
+- [Kickstarter Challenge dataset](https://github.com/SailFish17/Challenge-1_Kickstarter-analysis/blob/main/Kickstarter%20Challenge%20Vupload.xlsx)
 
 and yielded 2 graph representations of the data
 
-- Outcomes_vs_GoalsV2.png  ![outcomes_vs_GoalsV2.png]
+- [outcomes_vs_GoalsV2.png](https://github.com/SailFish17/Challenge-1_Kickstarter-analysis/blob/main/Outcomes_vs_GoalsV2.png)
 
-- Theater_outcomes_vs_launchV2.png  ![Theater_outcomes_vs_launchV2.png]
+- [Theater_outcomes_vs_launchV2.png](https://github.com/SailFish17/Challenge-1_Kickstarter-analysis/blob/main/Theater_Outcomes_vs_LaunchV2.png)
 
 The dataset and platform presented unique challenges that needed to be overcome thru the use of Google Fu.  (See below)
 
@@ -59,14 +59,14 @@ Understanding Kickstarter came from reading about it and the kickstarter FAQ’s
 
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
-See graph in file Theater_Outcomes_VS_Launch.png.
+- ![Theater_outcomes_vs_launchV2.png](https://github.com/SailFish17/Challenge-1_Kickstarter-analysis/blob/main/Theater_Outcomes_vs_LaunchV2.png)
 
 * Launch your kickstarter mid year; The most successful month to start a campaign is May.  June has the second highest success rate.
 
 * Avoid launching end of year; December Kickstarters fail almost half the time, the highest percentage of failure throughout the year
 
 ### What can you conclude about the Outcomes based on Goals?
-See Graph in file OUtcoumes_vs_Goals.png.
+- ![outcomes_vs_GoalsV2.png](https://github.com/SailFish17/Challenge-1_Kickstarter-analysis/blob/main/Outcomes_vs_GoalsV2.png)
 
 * Keep your requests for plays at a low cost, Highest success rates for Play kickstarters was under $5,000.   
 

@@ -12,13 +12,13 @@ The analysis was performed by sifting the data with Excel (data set is native to
 
 The analysis was done on the dataset:
 
-- Kickstarter Challenge Vupload.xlsx
+- Kickstarter Challenge Vupload.xlsx   [Kickstarter Challenge Vupload.xlsx](Kickstarter Challenge Vupload.xlsx)
 
 and yielded 2 graph representations of the data
 
-- Outcomes_vs_GoalsV2.png
+- Outcomes_vs_GoalsV2.png  ![outcomes_vs_GoalsV2.png]
 
-- Theater_outcomes_vs_launchV2.png
+- Theater_outcomes_vs_launchV2.png  ![Theater_outcomes_vs_launchV2.png]
 
 The dataset and platform presented unique challenges that needed to be overcome thru the use of Google Fu.  (See below)
 
